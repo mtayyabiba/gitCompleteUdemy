@@ -1,5 +1,5 @@
 "Test quick git start demo" 
 line 2
-line 3
+line 30
 line 4
 line 5
